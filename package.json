@@ -1,0 +1,17 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "This is the server",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server"
+  },
+  "author": "Aryan",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.7.1"
+  },
+  "devDependencies": {
+    "nodemon" : "^2.0.3"
+  }
+}
